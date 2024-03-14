@@ -1,0 +1,21 @@
+/* src/components/TaskManager.css */
+
+/* Add any CSS styles specific to TaskManager component here */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.card {
+    margin-bottom: 15px;
+}
